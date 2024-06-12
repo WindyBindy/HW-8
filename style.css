@@ -1,18 +1,13 @@
-.pink{
-    color: pink;
-}
-.red{
-    color: red;
-}
-.gray{
-    color: gray;
-}
-.green{
+div + p{
     color: green;
 }
+
 .yellow{
     color: yellow;
 }
+
+
+
 .nemezki{
     color: blue;
 }
@@ -30,7 +25,14 @@
 .risovanie{
     color: coral;
 }
+.risovanie:hover{
+    color:rgb(36, 36, 90);
+}
 .biologi{
     color: aqua;
+    
+}
+.biologi:hover{
+    color:blue;
 }
 
